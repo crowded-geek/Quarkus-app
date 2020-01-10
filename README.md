@@ -2,3 +2,5 @@
 
 # Quarkus-app
 for GCI
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
